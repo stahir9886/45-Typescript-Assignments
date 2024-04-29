@@ -1,1 +1,1 @@
-This repository contains the completed TypeScript assignments, showcasing the implementation of various concepts and features of TypeScript.
+This repository contains the completed 45 TypeScript assignments, showcasing the implementation of various concepts and features of TypeScript.
